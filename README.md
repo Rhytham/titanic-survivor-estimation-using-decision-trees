@@ -1,0 +1,2 @@
+# titanic-survivor-estimation-using-decision-trees
+In this project, I have estimated whether a person survived or not during titanic tragedy( or based on given information like age, gender,etc. , estimation of the passenger being survived). I have implemented 3 strategies,i.e., decision tree,  random forest and adaboost classifier, out of them I am getting maximum accuracy with random forest classifier (82 percent).
